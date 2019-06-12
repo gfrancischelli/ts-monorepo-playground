@@ -1,0 +1,9 @@
+{
+  "name": "@mono/core",
+  "version": "0.0.1",
+  "private": false,
+  "main": "dist",
+  "scripts": {
+    "compile": "tsc -b"
+  }
+}

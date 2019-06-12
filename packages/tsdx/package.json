@@ -1,6 +1,6 @@
 {
-  "name": "tsdx",
-  "version": "0.1.0",
+  "name": "@mono/tsdx",
+  "version": "0.0.1",
   "main": "dist/index.js",
   "umd:main": "dist/tsdx.umd.production.js",
   "module": "dist/tsdx.es.production.js",
@@ -40,6 +40,7 @@
     "typescript": "^3.5.1"
   },
   "dependencies": {
+    "@mono/core": "0.0.1",
     "tsdx": "^0.6.1"
   }
 }

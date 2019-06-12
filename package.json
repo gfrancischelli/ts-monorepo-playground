@@ -1,0 +1,12 @@
+{
+  "name": "ts-monorepo-playground",
+  "version": "0.0.1",
+  "private": true,
+  "workspaces": {
+    "packages": ["packages/*"]
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "typescript": "3.5.1"
+  }
+}
